@@ -1,0 +1,5 @@
+1. Remove validation set
+2. Make a format data function that takes in the normal form csv data
+3. Predict from only fitness 
+4. Predict from only "simple" data
+5. Add to website a predictor
